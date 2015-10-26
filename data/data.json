@@ -1,0 +1,172 @@
+{
+    "celebrities":[
+        {"id":1,"name": "Nicolas Cage",
+	
+      "desc": "Nicolas Kim Coppola, known professionally as Nicolas Cage, is an American actor and producer. He has performed in leading roles in a variety of films, ranging from romantic comedies and dramas to science fiction and action films.",
+		"Born":"January 7, 1964",
+		"age":51, "image": "nicolas_cage.jpg"}, 
+        
+        
+        {
+      "id": 2,
+      "name": "Jim Carrey",
+	
+      "desc": "James Eugene 'Jim' Carrey is a Canadian-American actor, comedian, impressionist, screenwriter, and film producer. Known for his highly energetic slapstick performances, he has been described as one of the biggest movie stars in Hollywood.",
+		"Born":"January 17, 1962",
+		"age":53, "image":"jim_carrey.jpg"
+      
+    },
+        
+        
+        
+      {
+      "id": 3,
+      "name": "Will Smith",
+	
+      "desc": "Willard Carroll 'Will' Smith, Jr. is an American actor, producer, rapper, and songwriter. He has enjoyed success in television, film, and music. In April 2007, Newsweek called him 'the most powerful actor in Hollywood'.",
+		"Born":"September 25, 1968",
+		"age":47, "image":"will_smith.jpg"
+      
+    },  
+        
+        
+   {
+      "id": 4,
+      "name": "Jack Black",
+	
+      "desc": "Thomas Jacob 'Jack' Black is an American actor, comedian, singer, and producer. His acting career has been extensive, starring primarily in comedy films.",
+		"Born":"August 28, 1969",
+		"age":46, "image":"jack_black.jpg"
+      
+    },     
+        
+        
+        
+     {
+      "id": 5,
+      "name": "Johnny Depp",
+	
+      "desc": "John Christopher 'Johnny' Depp II is an American actor, producer, and musician. He has won the Golden Globe Award and Screen Actors Guild Award for Best Actor.",
+		"Born":"June 9, 1963", 
+		"age":52, "image":"johnny_depp.jpg"
+      
+    },   
+       
+        
+        
+        {
+      "id": 6,
+      "name": "Dustin Hoffman",
+	
+      "desc": "Dustin Lee Hoffman is an American actor and director with a career in film, television, and theatre since 1960. He has been known for his versatile portrayals of antiheroes and vulnerable characters.",
+		"Born":"August 8, 1937",
+		"age":78, "image":"dustin_hoffman.jpg"
+      
+    },
+        
+        
+        {
+      "id": 7,
+      "name": "Jackie Chan",
+	
+      "desc": "Datuk Jackie Chan, SBS, MBE is a Hong Kong actor, martial artist, film director, producer, stuntman, and singer.",
+		"Born":"April 7, 1954",
+		"age":61, "image":"jackie_chan.jpg"
+      
+    },
+      
+      {
+      "id": 8,
+      "name": "Robert De Niro",
+	
+      "desc": "Robert De Niro is an American actor and producer who has starred in over 90 films. His first major film roles were in the sports drama Bang the Drum Slowly and Martin Scorsese's crime film Mean Streets.",
+		"Born":"August 17, 1943",
+		"age":72, "image":"robert_de_niro.jpg"
+      
+    },
+        
+
+
+{
+      "id": 9,
+      "name": "John Travolta",
+	
+      "desc": "John Joseph Travolta is an American actor, dancer, and singer. Travolta first became known in the 1970s, after appearing on the television series Welcome Back, Kotter and starring in the box office successes Saturday Night Fever and Grease.",
+		"Born":"February 18, 1954",
+		"age":61, "image":"john_travolta.jpg"
+      
+    },
+      {
+      "id": 10,
+      "name": "Morgan Freeman",
+	
+      "desc": "Morgan Freeman is an American actor and narrator. Freeman has received Academy Award nominations for his performances in Street Smart, Driving Miss Daisy, The Shawshank Redemption and Invictus, and won the Best Supporting Actor Oscar in 2005 for Million Dollar Baby.",
+		"Born":"June 1, 1937",
+		"age":78, "image":"morgan_freeman.jpg"
+      
+    },
+      {
+      "id": 11,
+      "name": "Eddie Murphy",
+	
+      "desc": "Edward Regan 'Eddie' Murphy is an American comedian, actor, writer, singer, and director. Box-office takes from Murphy's films make him the 4th-highest grossing actor in the United States.",
+		"Born":"April 3, 1961",
+		"age":54, "image":"robert_de_niro.jpg"
+      
+    },
+      
+      {
+      "id": 12,
+      "name": "Bruce Willis",
+	
+      "desc": "Walter Bruce Willis is an American actor, producer and singer. His career began on the Off-Broadway stage and then in television in the 1980s, most notably as David Addison in Moonlighting.",
+		"Born":"March 19, 1955",
+		"age":60, "image":"bruce_willis.jpg"
+      
+    },
+      
+      {
+      "id": 13,
+      "name": "Tom Hanks",
+	
+      "desc": "Thomas Jeffrey Hanks is an American actor and filmmaker. He is known for his roles in Big, Philadelphia, Forrest Gump, Apollo 13, Saving Private Ryan, You've Got Mail, The Green Mile, Cast Away, The Da Vinci Code, Captain Phillips, and Saving Mr. Banks, as well as for his voice work in the animated films The Polar Express and the Toy Story series.",
+		"Born":"July 9, 1956",
+		"age":59, "image":"tom_hanks.jpg"
+      
+    },
+      
+      
+      {
+      "id": 14,
+      "name": "Ben Stiller",
+	
+      "desc": "Benjamin Edward Meara 'Ben' Stiller is an American actor, comedian, and filmmaker. He is the son of veteran comedians and actors Jerry Stiller and Anne Meara.",
+		"Born":"November 30, 1965",
+		"age":49, "image":"ben_stiller.jpg"
+      
+    },
+      
+      
+     {
+      "id": 15,
+      "name": "Rowan Atkinson",
+	
+      "desc": "Rowan Sebastian Atkinson, CBE is an English actor, comedian, and screenwriter best known for his work on the sitcoms Blackadder and Mr. Bean.",
+		"Born":"January 6, 1955",
+		"age":60, "image":"rowan_atkinson.jpg"
+        
+      
+    }
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+]}
